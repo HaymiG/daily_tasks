@@ -77,10 +77,8 @@ pip install pandas numpy matplotlib seaborn jupyter
 ## Project Structure
 ```
 .
-├── data/
-│   └── Sample - Superstore.csv
-├── README.md
-└── superstore_analysis.ipynb
+├──  superstore_analysis.ipynb
+└── README.md
 ```
 
 ## Key Findings
